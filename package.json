@@ -1,0 +1,23 @@
+{
+  "name": "learn-graph",
+  "version": "1.0.0",
+  "description": "A tool for learning how to find the shortest way to come accross the graph",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obudova/learn-graph.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/obudova/learn-graph/issues"
+  },
+  "homepage": "https://github.com/obudova/learn-graph#readme",
+  "devDependencies": {
+    "electron": "^1.7.9",
+    "electron-prebuilt": "^1.2.5"
+  }
+}
